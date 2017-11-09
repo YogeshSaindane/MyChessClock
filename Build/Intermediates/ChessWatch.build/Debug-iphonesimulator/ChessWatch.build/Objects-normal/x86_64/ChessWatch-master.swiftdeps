@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a4d98b136b4bba13fbcffce43bfb1e7d"
+build_time: [540919162, 258075000]
+inputs:
+  "/Volumes/Data/iOS/ChessWatch/ChessWatch/ViewController.swift": [540919161, 0]
+  "/Volumes/Data/iOS/ChessWatch/ChessWatch/AppDelegate.swift": [540917053, 0]
